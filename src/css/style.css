@@ -1,0 +1,21 @@
+.banner_section{
+    background-image: url("../assets/Rectanglepurple.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh - 100px );
+}
+.head_size{
+    height: 100px;
+}
+.logo_section {
+    display: flex;
+    align-items:center;
+  
+  }
+  .Header-branding-logo {
+      max-width: 100px;
+  }
+  .Header-branding-logo {
+      width: 100%;
+  }
+  
